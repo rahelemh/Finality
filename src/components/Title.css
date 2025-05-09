@@ -112,6 +112,7 @@ font-size: ;
     
 }
 .butter{
+    
     display: none !important;
     display: flex;
     justify-content: flex-end;
