@@ -1,0 +1,26 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin: 50px auto;
+    gap: 50px !important;
+
+}
+.buter{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    border: 0.5px solid black;
+    background-image: url(./galery/w2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.right{
+    width: 250px;
+}
+.right h1{
+    margin-bottom: 15px;
+    font-size: 30px;
+
+}

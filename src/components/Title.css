@@ -1,0 +1,123 @@
+.titler{
+    background-image: url(./galery/y18.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: contain;
+    width: 100%;
+    height: 500px;
+    margin-top: 10px;
+    color: #c3272e;
+padding: 5px 15px;
+box-sizing: border-box;
+
+}
+.titler h1{
+    font-size: 40px !important;
+}
+.witer{
+    color: blanchedalmond;
+}
+.topper{
+    font-family: 'Times New Roman', Times, serif;
+    padding:0px 35px;
+    padding-top: 40px;
+
+}
+.k2{
+    color: #c3272e;
+}
+.titler h1{
+    font-size: 50px !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.middler{
+    color: aliceblue;
+    padding-left: 35px;
+    height: 320px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.middler h2{
+font-size: ;
+    margin-bottom: 15px;
+}
+.m2{
+    background-color: #c3272e !important;
+    height: 40px;
+    
+}
+.butter{
+    
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+    align-items: center;
+    padding-right: 30px;
+
+}
+.m5{
+    gap: 10px;
+    margin:0px 30px;
+    width: 180px !important;
+    border-bottom: 0.5px solid white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.io{
+    width: 280px;
+}
+.twoi p{
+    font-size: 13px;
+    width: 40%;
+}
+.twoi{
+    display: flex;
+    gap: 10px;
+}
+@media only screen and (max-width: 1000px) {
+    
+    
+.titler h1{
+    font-size: 20px !important;
+}
+.titler{
+    background-position: center;
+    background-size: cover;
+}
+
+
+.titler h1{
+    
+    font-size: 40px !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.middler{
+    color: aliceblue;
+    padding-left: 35px;
+    height: 320px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.middler h2{
+    margin-bottom: 15px;
+}
+.m2{
+    background-color: #c3272e !important;
+    height: 40px;
+    
+}
+.butter{
+    display: none !important;
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+    align-items: flex-start;
+    padding-right: 30px;
+
+}
+    }

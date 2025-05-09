@@ -1,0 +1,40 @@
+.simpCard{
+
+    
+
+}
+
+.butler{
+    margin-top: 160px;
+}
+.carter{
+   max-width: 1000px;
+   height: 220px;
+   margin: 0px auto;
+   gap: 15px;
+}
+.tittt{
+    overflow: hidden;
+    height: 50px;
+}
+.titt{
+    margin-top: 5px;
+    padding: 0px 5px;
+}
+
+.h33{
+    margin-top: 5px;
+    color: rgb(127, 123, 123);
+}
+.jj{
+    margin-top: 5px;
+}
+.ju{
+    color: rgb(25, 25, 25);
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.ju h1{
+text-align: center;    font-size: 26px;
+    margin-bottom: 13px;
+}

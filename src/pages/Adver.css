@@ -1,0 +1,18 @@
+.header-ad {
+    background-color: #ff4646;
+    color: #fff;
+    text-align: center;
+    padding: 0.75rem;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .header-ad a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  
+  .header-ad a:hover {
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,33 @@
+.jasem{
+    width: 100% !important;
+}
+.part1{
+    margin: 20px auto;
+    max-width: 1000px;
+    background-color: white;
+    color: black;
+}
+.picer{
+    object-fit: contain;
+}
+.leftious{
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    
+    height: 90%;
+    width: 50%;
+    font-size: 20px;
+}
+.m6{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.m4{
+    margin-top: 20px !important;
+    width: 200px;
+}
+.m3{
+    padding: 5px;
+    margin-top: 5px;
+}

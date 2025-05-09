@@ -1,0 +1,32 @@
+.pope{
+    margin-top: 40px !important;
+    margin-left: 40px;
+    margin-right: 35px;
+    margin-bottom: 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ff{
+    margin-top: 20px;
+}
+.jack{
+    background-image: url(./galery/y4.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.mat{
+    background-image: url(./galery/y6.jfif);
+    background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+.bolder{
+    font-weight: 500;
+font-size: 26px;
+margin: 10px;
+}
+.ki{
+    margin-top: 20px;
+    font-size: 16px;
+}

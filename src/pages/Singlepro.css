@@ -1,0 +1,59 @@
+.asl{
+    width: 250px;
+    max-height: 470px;
+    background-color: #ffffff;
+    color: rgb(50, 50, 50) !important;
+}
+.fifi{
+    font-size: 14px !important;
+}
+.go{
+    margin-top: 10px;
+}
+.hearter{
+    font-size: 18px;
+    width: 20px !important;
+    height: 20px !important;
+
+}
+.sale{
+    padding: 10px;
+    font-size: 16px;
+    
+}
+.ki img{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.mar{
+    margin-top: 5px;
+    padding: 5px 15px;
+}
+.pp{
+    margin-top: 5px;
+}
+.yummy{
+    margin: 20px auto;
+width: 100%;
+    padding: 20px;
+
+
+}
+.yummy input{
+    padding: 10px;
+    width: 600px;
+    border-radius: 15px;
+    color: black;
+}
+.yummy h1{
+    font-size: 20px;
+    margin: 10px;
+}
+.kazem{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-left: 20px;
+    background-color: rgb(237, 237, 237);
+    padding: 40px 10px;    
+}
