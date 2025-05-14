@@ -1,3 +1,7 @@
+
+body{
+    background-color: #232122;
+}
 .pat1{
     padding: 10px;
 
@@ -5,6 +9,7 @@
 display: flex;
 justify-content: flex-start;
 align-items: center;
+
 flex-direction: column;
 }
 .redfilter{
@@ -57,3 +62,27 @@ box-sizing: border-box;
     align-items: center;
     flex-direction: column;
 }
+@media only screen and (max-width: 1000px) {
+.cont{
+    display: none;
+    height: 800px;
+    flex-direction: column;
+    justify-content:center !important;
+    gap: 0px !important;
+    align-items: center;
+}
+.pat1{
+    width: 90% !important;
+    justify-content: flex-start;
+
+}
+.pat2{
+width: 90%;
+background-color: none !important;
+justify-content: flex-start;
+
+}
+.pat3{
+    justify-content: flex-start;
+}
+    }

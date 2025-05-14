@@ -5,7 +5,7 @@ import SendIcon from '@mui/icons-material/Search';
 export function Lefter(){
     return(
         <>
-        <div className="container h-[500px] w-[1000px]  flex justify-center ">
+        <div className="container !flex-wrap  h-[500px] w-[1000px]  flex justify-center ">
 <div className="left w-[45%]">
 
 </div>

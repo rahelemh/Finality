@@ -46,3 +46,10 @@ background-size: cover;
     font-size: 30px;
 
 }
+
+@media only screen and (max-width: 600px) {
+    .Shop{
+        margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    }
+    }

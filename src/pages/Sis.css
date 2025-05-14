@@ -31,3 +31,8 @@
     padding: 5px;
     margin-top: 5px;
 }
+@media only screen and (max-width: 1000px) {
+    .part1{
+        height: 600px;
+    }
+    }

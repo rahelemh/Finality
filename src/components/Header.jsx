@@ -2,8 +2,8 @@ import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import ConnectWithoutContactIcon from '@mui/icons-material/ConnectWithoutContact';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import './Header.css'
-import { useNavigate } from 'react-router-dom';
 export function Header(){
+
 function IconUser(){
     return(<AccountCircleIcon/>)
 }
@@ -14,7 +14,9 @@ function IconUser(){
         <div className='menu'>
 
 <div className="itemer">
-    <span className='cursor-pointer'>Home</span>
+
+<span className='cursor-pointer'>Home</span>
+   
     <span className='cursor-pointer'>Collection</span>
     <span className='cursor-pointer' >All product</span>
     <span className='cursor-pointer'>About US</span>

@@ -30,3 +30,37 @@ margin: 10px;
     margin-top: 20px;
     font-size: 16px;
 }
+
+@media only screen and (max-width: 800px) {
+.pop{flex-wrap: wrap !important;
+
+}
+.mmd{
+    display: block;
+    width: 100% !important;
+    text-align: center;
+
+}
+.bolder{
+    width: 100% !important;
+}
+.ki{
+width: 100% !important;
+}
+.primer{
+    width: 70%;
+    height: 240px;
+    margin-top: 20px;
+}
+.jack{
+    width: 70%;
+overflow: hidden;
+border-radius: 15px;
+}
+.mat{
+    width: 70%;
+    overflow: hidden;
+    border-radius: 15px;
+
+}
+    }
